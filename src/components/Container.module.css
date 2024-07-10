@@ -1,0 +1,6 @@
+.parentContainer {
+  display: flex;
+
+  /* if not using InnerContainer put below else comment below*/
+  justify-content: space-evenly;
+}
